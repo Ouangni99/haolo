@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../fonts/century-gothic/CenturyGothic.eot');
+    src: url('../fonts/century-gothic/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/century-gothic/CenturyGothic.woff') format('woff'),
+        url('../fonts/century-gothic/CenturyGothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+html,
+body {
+    font-family: 'Century Gothic', Helvetica, "sans-serif";
+}
+h1, h2, h3, h4, h5, th {
+    font-family: 'Century Gothic', Helvetica, "sans-serif";
+    font-weight: 700;
+}
+a, p, li, td, span {
+    font-size: 14.5px;
+    line-height: 24px;
+    font-family: 'Century Gothic', Helvetica, "sans-serif";
+    font-weight: 400;
+}
+.hot-page2-alp-r-list {
+	padding: 10px;
+}
+.trav-list-bod p {
+	font-size: 13px;
+	line-height: 20px;
+	text-align: justify;
+}
